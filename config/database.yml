@@ -1,0 +1,11 @@
+development:
+  # Mysql Settings
+  host: localhost
+  adapter: postgresql
+  encoding: unicode
+  database: bc_walking_development
+  username: philmcclure
+  password:
+  pool: 5
+
+

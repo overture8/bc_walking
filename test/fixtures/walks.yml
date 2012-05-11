@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  description: MyText
+  start_lng: 1.5
+  start_lat: 1.5
+  end_lng: 1.5
+  end_lat: 1.5
+  published: false
+
+two:
+  title: MyString
+  description: MyText
+  start_lng: 1.5
+  start_lat: 1.5
+  end_lng: 1.5
+  end_lat: 1.5
+  published: false

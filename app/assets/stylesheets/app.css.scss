@@ -1,0 +1,26 @@
+@import "compass/css3";
+
+body {
+  background-color: #ECF2D9;
+}
+
+article {
+  background-color: #BCD279;
+}
+
+h1 {
+  font-family: "lobster";
+  font-size: 75px;
+  color: #354C29;
+  @include text-shadow(rgba(white, 0.2) 1px 1px 0, rgba(white, 0.2) 1px 1px 0, rgba(white, 0.2) 1px 1px 0);
+}
+
+h2, h3 {
+  font-family: "droid-serif";
+  color: #A33D29;
+}
+
+p {
+  font-size: 1em;
+  color: #A33D29;
+}
